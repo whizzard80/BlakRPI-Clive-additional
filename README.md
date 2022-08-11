@@ -14,3 +14,7 @@ There are plugs on the board for extra power supplies and USB for plugging into 
 ## Kailh Low profile Mechanical Keyboard Switches
 
 These are super low-profile switches.  Please don't confuse them with the red low-profile Kailh switches.  Only the white will fit.  They are not cheap, probably the most expensive part of the build.  Each switch right now is around one dollar, so a set will cost you 60 dollars at least, but I suggest getting a few extra if you break one or make a mistake.  Here is a link to them on the aliexpress Kailh store: [SwitchLink](https://www.aliexpress.com/item/2251832803593645.html?spm=a2g0o.order_list.0.0.6f4518023p4uJX "Switches")
+
+## Also added my QMK files and hex
+
+![blakrpi-clive](https://user-images.githubusercontent.com/13095898/184045406-42a65750-6d78-4f51-b9a6-5d3174489234.png)
